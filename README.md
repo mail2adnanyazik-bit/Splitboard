@@ -90,6 +90,6 @@ M2 standoffs + screws kit : 2 $
 PCB from JLCPCB : 20 $
 Shipping (Aliexpress and JLCPCB) : 15 $
 
-Total : ~ 142.5
+Total : ~ 115$
 
 I would add another 15 - 20 dollar buffer since something is bound to go wrong, so in the end it would be around 160 dollars.
