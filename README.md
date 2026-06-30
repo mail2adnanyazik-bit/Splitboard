@@ -64,6 +64,10 @@ This will be done on both sides (I couldnt find a way to flip the PCB 3d model p
 
 ![](assets/img/2026-06-29-20-59-36.png)
 
+## Firmware :
+
+Because i had to make the firmware extremely fast for outpost, im just making a completely boring, standard corne keyboard firmware with ZMK
+
 ## Costs (BOM) :
 
 I will buy everything except PCB from Aliexpress
