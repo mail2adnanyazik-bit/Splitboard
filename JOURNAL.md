@@ -1,4 +1,4 @@
-## June 15 : Research finished !
+## June 15 : Research finished ! (~ 3h)
 
 I am finally done with all my research, took major decisions for the final product and finished my components list with Deepseek's help !
 
@@ -16,7 +16,7 @@ I am finally done with all my research, took major decisions for the final produ
      - I will also use hotswapping adapters so I dont have to permanently stick with one type of switch
      - I will 3D print the case
 
-## June 16 : Schematic done !
+## June 16 : Schematic done ! (~ 5h)
 
 Done with Schematic ! It was a bit hard to figure out some things, find some footprints and symbols, and expecially with the wiring
 and the wierd symbols for my microcontroller - also some of the components did'nt have symbols so i had to improvise.
@@ -24,7 +24,7 @@ It was hard to find out which symbols and footprints to use, but it was fun to s
 
 ![](assets/img/2026-06-16-21-54-47.png)
 
-## June 17 : PCB part 1
+## June 17 : PCB start ! (~ 2h)
 
 I was finished arranging and wiring my PCB, and ran DRC, when Disaster struck - my footprint for the microcontroller was wrong !
 I had to start again with a new footprint, and delete all the wires going there. And to add to my misery, I had forgotten to click unpause on my Recording, and lost next to 2 HOURS of work.
@@ -32,7 +32,7 @@ Here is the current state of my PCB :
 
 ![](assets/img/2026-06-17-22-18-53.png)
 
-## June 18 : PCB finished !
+## June 18 : PCB finished ! (~ 1h 30 min)
 
 I had forgot to mention yesterday : I had made a revision to my PCB and Schematic!
 
@@ -50,7 +50,7 @@ expecially cause i am still an amateur - this is only my second PCB ! It was als
 so it was rather unavoidable. I finished wiring though, and also made the Outline fo the board fit the board a bit better - im proud that im done now though !
 Next time i hope i can do it better with the experience from this, and im a bit sad at the amount of vias used.
 
-## Still June 18 :D :
+## Still June 18 :D : PCB Adjustment & 3D Models (~ 2h)
 
 I added mounting holes to my PCB cause i realized that trying to make a case that snaps or slides shut with some mechanism that still holds the PCB
 safe would be rather troublesome, and decided to cut my losses and add 4, at the approximated corners of my PCB
@@ -81,7 +81,7 @@ Here is a pic of the final PCB from the built in 3D viewer in KiCad:
 
 ![](assets/img/2026-06-18-22-56-59.png)
 
-## June 27 : 3D Modeling - Case Top
+## June 27 : 3D Modeling - Case Top (~ 4h)
 
 After a long time of being lazy and working on the schematic for my other current project **_AquaPuck_** (_Psstt ... U should check it out ! Its also on Stardance ..._)
 im back !
@@ -117,15 +117,13 @@ After extruding (just for show !) :
 
 ![](assets/img/2026-06-27-18-16-44.png)
 
-## June 29 : 3D Modeling done !
+## June 29 : 3D Modeling done ! (~ 4h)
 
 So, after a whopping 4 HOURS of work, i have the 3D Models for both sides of the Case done :
 
-
 ![](assets/img/2026-06-29-20-31-51.png)
 
-
-Basically i took the outline of the PCB as a reference, made a second outline that was bigger, less exact, etc. and then added mounting holes and a cutout for the USB-C port 
+Basically i took the outline of the PCB as a reference, made a second outline that was bigger, less exact, etc. and then added mounting holes and a cutout for the USB-C port
 of my microcontroller
 
 I also made it look good by rounding off corners, making the final outline a bit more bigger and less hugging the shape of the PCB.
