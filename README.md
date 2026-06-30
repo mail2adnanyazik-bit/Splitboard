@@ -40,6 +40,8 @@ design ONE, and order it twice - i would just have to flip it over for the other
 
 ## Case :
 
+You can view it interactively on OnShape in your Browser ! : https://cad.onshape.com/documents/4401902cdc607732e38adc1c/w/b44e538c7538a5811b6e646c/e/3efcd232ff04d945eef59e16?renderMode=0&uiState=6a440a2cf26d36c1903a4b4f
+
 For the case, i decided to use just two parts :
 
 - ### A Case Bottom :
