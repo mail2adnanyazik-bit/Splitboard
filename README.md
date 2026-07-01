@@ -1,6 +1,6 @@
 # Splitboard - a custom, built from scratch wireless corne split keyboard. Built for Stardance, to qualify for Outpost.
 
-![](assets/img/2026-06-29-20-37-37.png)
+![](assets/img/2026-07-01-21-08-32.png)
 
 Splitboard is a wireless split keyboard built by ME - Panda (also known as Adnan)
 
@@ -33,10 +33,15 @@ As you can see, i dont like wires :D
 
 ## PCB :
 
+left side :
+
 ![](assets/img/2026-06-29-20-49-44.png)
 
-The special thing about this PCB is, it is **_reversible_** - instead of having to design two seperate PCB's, i can simply
-design ONE, and order it twice - i would just have to flip it over for the other half, and solder on the other side !
+right side :
+
+![](assets/img/2026-07-01-18-27-21.png)
+
+Although the initial plan was to make a _reversible_ PCB that i would just turn 180 degrees, i decided to make my keyboard not symmetric - which means i cant just turn it around, instead i have to make two seperate PCB's
 
 ## Case :
 
@@ -62,9 +67,13 @@ There will be a such Bottom and Top for both halves of the keyboard, and it will
 
 Then Keycaps will be pressed on to the switches.
 
-This will be done on both sides (I couldnt find a way to flip the PCB 3d model properly D:) :
+This will be done on both sides :
 
-![](assets/img/2026-06-29-20-59-36.png)
+![](assets/img/2026-07-01-21-06-10.png)
+
+In the end it will look like this :
+
+![](assets/img/2026-07-01-21-08-14.png)
 
 ## Firmware :
 
