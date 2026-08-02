@@ -131,3 +131,22 @@ I also made it look good by rounding off corners, making the final outline a bit
 I also polished the Case top in the same way.
 
 Anyway, all i have left to do is set up the GitHub Repo and README
+
+## July 11 : Grant got approved, code writing and waiting on parts ! (~ 16 hours)
+
+So yeah, i got me grant ! \*toot **toot\*** !
+Also i worked a lot on the code for it, and im proud of myself - and then my power went off cause i forgot to charge my laptop, and since
+i recently switched to neovim, i dont have autosaving and instead accidentally deleted all my work cause i only save at the end. **UGHHHHH**
+fortunately i have hackatime and the time is saved in there, so i can still get stardust for it and can prove i worked 18 hours on the project software :D
+
+I also think i found a cheaper local german alternative to aliExpress and its crazy ass shipping - but now i might have to change my PCB cause it has too many vias cause im an idiot who does not know how to wire T-T.
+i knew this would come back to haunt me dude.
+
+Anyway im gonna wait for my dad to get back from his 1 month long trip before i order the parts cause he can definetely help me with that, so
+im not gonna be working on the project for a while :/ .
+
+I have decided its probably better to FIRST do hardware THEN do software (cause its useless if it doesnt work or i change the PCB)
+
+### UPDATE
+
+ok i just checked JLCPCB and i _thiiink_ my PCB is fine ? im not exactly sure but i think so - it could be anywhere between 10 and 80 $ T-T
